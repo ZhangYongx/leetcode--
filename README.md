@@ -1,2 +1,2 @@
-# one-day-one-leetcode
-leetcode 一天一题
+# one-week-one-leetcode
+leetcode 一周一题
